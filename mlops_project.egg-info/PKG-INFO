@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: mlops_project
+Version: 0.1
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: requires-dist
