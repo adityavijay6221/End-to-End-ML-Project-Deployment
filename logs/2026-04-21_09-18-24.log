@@ -1,0 +1,20 @@
+[2026-04-21 09:18:24,155] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080
+[2026-04-21 09:18:24,155] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2026-04-21 09:18:24,156] werkzeug - INFO -  * Restarting with stat
+[2026-04-21 09:18:24,343] werkzeug - WARNING -  * Debugger is active!
+[2026-04-21 09:18:24,358] werkzeug - INFO -  * Debugger PIN: 635-695-430
+[2026-04-21 09:18:30,898] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:30] "[33mGET /home HTTP/1.1[0m" 404 -
+[2026-04-21 09:18:30,943] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-04-21 09:18:39,178] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:39] "GET / HTTP/1.1" 200 -
+[2026-04-21 09:18:40,951] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:40] "GET /predict HTTP/1.1" 200 -
+[2026-04-21 09:19:04,439] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:19:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-04-21 09:19:04,454] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:19:04] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2026-04-21 09:19:04,456] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:19:04] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2026-04-21 09:19:04,461] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:19:04] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=z6YOoZGWvCD4MGu91B2r HTTP/1.1" 200 -
+[2026-04-21 09:19:04,491] werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 09:19:04] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2026-04-21 09:19:34,429] werkzeug - INFO -  * Detected change in '/Users/adityavijay/Desktop/MLOps/src/components/data_transformation.py', reloading
+[2026-04-21 09:19:34,565] werkzeug - INFO -  * Restarting with stat
+[2026-04-21 09:19:42,068] werkzeug - INFO -  * Restarting with stat

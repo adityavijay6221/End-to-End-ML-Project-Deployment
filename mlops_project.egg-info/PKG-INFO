@@ -6,4 +6,5 @@ Requires-Dist: numpy
 Requires-Dist: scikit-learn
 Requires-Dist: matplotlib
 Requires-Dist: seaborn
+Requires-Dist: flask
 Dynamic: requires-dist

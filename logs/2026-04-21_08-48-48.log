@@ -1,0 +1,7 @@
+[2026-04-21 08:48:49,845] root - INFO - Entered the model trainer method or component
+[2026-04-21 08:48:49,854] root - INFO - Linear Regression R2: 1.0000
+[2026-04-21 08:48:50,793] root - INFO - Ridge best params: {'alpha': 0.1}
+[2026-04-21 08:48:50,794] root - INFO - Ridge R2: 1.0000
+[2026-04-21 08:48:51,435] root - INFO - Lasso best params: {'alpha': 0.1}
+[2026-04-21 08:48:51,435] root - INFO - Lasso R2: 0.9999
+[2026-04-21 08:48:51,435] root - INFO - Best model: Linear Regression with R2 score: 1.0000
