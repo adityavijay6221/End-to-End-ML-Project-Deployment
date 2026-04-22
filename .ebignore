@@ -1,0 +1,9 @@
+venv/
+.DS_Store
+src/.DS_Store
+logs/
+data/
+__pycache__/
+*.pyc
+.git/
+CLAUDE.md
