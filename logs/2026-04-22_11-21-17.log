@@ -1,0 +1,3 @@
+[2026-04-22 11:21:17,873] werkzeug - WARNING -  * Debugger is active!
+[2026-04-22 11:21:17,882] werkzeug - INFO -  * Debugger PIN: 635-695-430
+[2026-04-22 11:43:59,049] werkzeug - INFO -  * Detected change in '/Users/adityavijay/Desktop/MLOps/app.py', reloading

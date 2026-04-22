@@ -18,3 +18,9 @@
 [2026-04-21 09:19:34,429] werkzeug - INFO -  * Detected change in '/Users/adityavijay/Desktop/MLOps/src/components/data_transformation.py', reloading
 [2026-04-21 09:19:34,565] werkzeug - INFO -  * Restarting with stat
 [2026-04-21 09:19:42,068] werkzeug - INFO -  * Restarting with stat
+[2026-04-22 11:20:50,840] werkzeug - INFO -  * Restarting with stat
+[2026-04-22 11:21:17,554] werkzeug - INFO -  * Restarting with stat
+[2026-04-22 11:43:59,144] werkzeug - INFO -  * Restarting with stat
+[2026-04-22 11:44:02,641] werkzeug - INFO -  * Restarting with stat
+[2026-04-22 11:44:06,991] werkzeug - INFO -  * Restarting with stat
+[2026-04-22 11:44:10,304] werkzeug - INFO -  * Restarting with stat
